@@ -11,7 +11,3 @@ The project demonstrates:
 - Data preprocessing
 - Model training (Logistic Regression)
 - Model evaluation
-
----
-
-
